@@ -1,6 +1,6 @@
 "Weihnachten"
 Markt und Straßen stehn verlassen,
-Still tethcuelre jedes Haus,
+Still jedes Haus,
 Sinnend geh ich durch die Gassen,
 Alles sieht so festlich aus.
 An den Fenstern haben Frauen
@@ -8,7 +8,11 @@ Buntes Spielzeug fromm geschmückt
 Tausend Kindlein stehn und schauen,
 Sind so wunderstill beglückt.
 Und ich wandre aus den Mauern
+<<<<<<< HEAD
 Bis suanih ins  Feld,
+=======
+Bis  ins eierf Feld,
+>>>>>>> ebf5c7de124b9fe0ee7438eb37b9ec22b8039284
 Hehres Glänzen, heilges Schauern!
 Wie so weit und still die Welt!
 Sterne hoch die Kreise schlingen,
